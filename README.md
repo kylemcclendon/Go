@@ -1,7 +1,7 @@
 Go
 ==
 
-Go
+Go Programs
 
 
 This repository holds programs coded in the Go programming language.
